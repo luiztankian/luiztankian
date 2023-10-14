@@ -1,7 +1,7 @@
-# 👋 Hello! Welcome to my Github profile. <img src="https://github.com/luiztankian/luiztankian/assets/147024604/c4835360-0b97-430f-a1c2-320b4f769618" width="75" height="75"/>
+# 👋 Hello! Welcome to my Github profile <img src="https://github.com/luiztankian/luiztankian/assets/147024604/c4835360-0b97-430f-a1c2-320b4f769618" width="75" height="75"/>
 ## My name is Luiz Jardel and my nickname is "luiztankian"! 
 
-# My journey as a Dev.
+# My journey as a Dev
 - My journey as a Dev is just beginning. To do this, I am taking courses on the Alura platform.
 - I'm an aspiring full stack developer, constantly searching for knowledge and improvement.
 - My journey began with the fascinating journey through the front-end, exploring HTML, CSS and JavaScript, and now I am diving into the challenging world of the back-end.
